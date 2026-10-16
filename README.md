@@ -2,17 +2,19 @@
 
 **Recover readable C# projects from Unity IL2CPP applications.**
 
-[中文](./README-ch.md) · [Official website](https://www.ur-engine.com/en/) · [Download Studio](https://github.com/IIIImmmyyy/UREngine/releases/latest) · [Request a trial](https://www.ur-engine.com/en/trial/)
+[中文](./README-ch.md) · [Official website](https://www.ur-engine.com/en/) · [Download Studio](https://github.com/IIIImmmyyy/UREngine/releases/latest) · [Apply for beta](https://www.ur-engine.com/en/trial/)
 
 UREngine analyzes native code and metadata from Unity IL2CPP applications to recover C# code for navigation, cross-references, global search, and review. **UREngine Studio** is the Windows desktop client for preparing inputs, submitting decompilation tasks, tracking progress, downloading verified results, and browsing recovered code and assets.
 
 This repository hosts product information, demonstrations, and Studio downloads. The engine and Studio application source code are not published here.
 
+**UREngine is currently in closed beta.** Apply on the website with your project details and analysis needs. Applications are reviewed before access is granted; approved applicants receive activation instructions by email.
+
 ## Download and get started
 
 1. Download **UREngine-Studio-{version}-win-x64.zip** from [GitHub Releases](https://github.com/IIIImmmyyy/UREngine/releases/latest) or the [official website](https://www.ur-engine.com/en/#studio).
 2. Extract the **entire ZIP** and launch **UREngine.Studio.exe**. Keep its accompanying files and the Assets directory together.
-3. Request trial access on the website if needed, then activate Studio with your issued license.
+3. Apply for the closed beta on the website. Once approved, activate Studio with the license provided by email.
 4. Select a supported package, choose the assemblies to analyze, submit the task, and open the recovered project when processing finishes.
 
 The release is a **Windows x64 portable package**. Decompilation requires activation and network access. Studio uses Microsoft Edge WebView2; VS Code is recommended for browsing generated C# projects.
@@ -55,7 +57,8 @@ https://github.com/user-attachments/assets/b4409379-0794-4224-8802-2f023e41df4a
 
 - Website: [www.ur-engine.com](https://www.ur-engine.com/en/)
 - Technical support: [support@ur-engine.com](mailto:support@ur-engine.com)
-- Trial and business inquiries: [contact through the website](https://www.ur-engine.com/en/trial/)
+- Closed beta: [apply on the website](https://www.ur-engine.com/en/trial/)
+- Business inquiries: [business@ur-engine.com](mailto:business@ur-engine.com)
 - Related learning resource: [U3D Game Security Course](https://github.com/IIIImmmyyy/U3DGameCourse)
 
 Use UREngine for software you own or are authorized to analyze. Unity is a trademark of Unity Technologies; UREngine is not affiliated with or endorsed by Unity Technologies.

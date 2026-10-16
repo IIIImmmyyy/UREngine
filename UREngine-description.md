@@ -4,7 +4,7 @@
 
 UREngine 将 Unity IL2CPP 原生代码与元数据恢复为便于浏览、搜索和审阅的 C# 工程。Studio 提供任务提交、结果下载与代码/资源浏览入口。
 
-下方保留早期代码还原对比资料，用于展示输出形式，不代表所有输入都能获得相同结果。当前支持范围、已知限制与试用入口请参阅[官网](https://www.ur-engine.com/support/)；公开版 Studio 暂未开放 Unity 工程导出。
+下方保留早期代码还原对比资料，用于展示输出形式，不代表所有输入都能获得相同结果。当前支持范围与已知限制请参阅[官网](https://www.ur-engine.com/support/)；如需参与内测，请提交[内测申请](https://www.ur-engine.com/trial/)，审核通过后获得激活授权。公开版 Studio 暂未开放 Unity 工程导出。
 
 ## 代码对比
 
