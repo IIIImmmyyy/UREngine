@@ -6,7 +6,7 @@
 
 UREngine analyzes native code and metadata from Unity IL2CPP applications to recover C# code for navigation, cross-references, global search, and review. **UREngine Studio** is the Windows desktop client for preparing inputs, submitting decompilation tasks, tracking progress, downloading verified results, and browsing recovered code and assets.
 
-This repository hosts product information, demonstrations, Studio downloads, and the release publishing script. The engine and Studio application source code are not published here.
+This repository hosts product information, demonstrations, and Studio downloads. The engine and Studio application source code are not published here.
 
 ## Download and get started
 
