@@ -51,16 +51,6 @@ https://github.com/user-attachments/assets/b4409379-0794-4224-8802-2f023e41df4a
 
 </details>
 
-## 发布最新版 Studio
-
-维护者可以用一条命令，将官网已经发布的最新版同步到 GitHub：
-
-    pwsh -File ./Publish-StudioRelease.ps1
-
-脚本自动下载官网安装包，校验 SHA-256 与包内版本，将 ZIP 和校验文件上传至 GitHub Release 草稿，确认上传内容一致后正式发布。重复执行会校验已有版本，或继续完成未发布的草稿。
-
-首次 GitHub CLI 登录、本地安装包上传、只校验不发布等用法见 [发布说明](./RELEASING.md)。
-
 ## 联系方式
 
 - 官网：[www.ur-engine.com](https://www.ur-engine.com/)

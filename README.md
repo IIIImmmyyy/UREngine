@@ -51,16 +51,6 @@ https://github.com/user-attachments/assets/b4409379-0794-4224-8802-2f023e41df4a
 
 </details>
 
-## Publish the latest Studio release
-
-Maintainers can sync the latest version already published on the official website:
-
-    pwsh -File ./Publish-StudioRelease.ps1
-
-The script downloads the official package, verifies its SHA-256 and embedded version, uploads the ZIP and checksum to a draft GitHub Release, and publishes only after checking both uploaded files. Repeating the command verifies an existing release or resumes an incomplete draft.
-
-See [release publishing instructions](./RELEASING.md) for one-time GitHub CLI setup, local package uploads, and validation without publishing.
-
 ## Contact
 
 - Website: [www.ur-engine.com](https://www.ur-engine.com/en/)
