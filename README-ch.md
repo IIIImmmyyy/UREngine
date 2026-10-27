@@ -59,6 +59,5 @@ https://github.com/user-attachments/assets/b4409379-0794-4224-8802-2f023e41df4a
 - 技术支持：[support@ur-engine.com](mailto:support@ur-engine.com)
 - 内测申请：[通过官网申请](https://www.ur-engine.com/trial/)
 - 商务咨询：[business@ur-engine.com](mailto:business@ur-engine.com)
-- 相关学习资源：[Android U3D 手游安全课程](https://github.com/IIIImmmyyy/U3DGameCourse)
 
 请仅分析自己拥有或已获授权的软件。Unity 是 Unity Technologies 的商标；UREngine 与其无隶属或背书关系。

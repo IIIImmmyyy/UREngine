@@ -59,6 +59,5 @@ https://github.com/user-attachments/assets/b4409379-0794-4224-8802-2f023e41df4a
 - Technical support: [support@ur-engine.com](mailto:support@ur-engine.com)
 - Closed beta: [apply on the website](https://www.ur-engine.com/en/trial/)
 - Business inquiries: [business@ur-engine.com](mailto:business@ur-engine.com)
-- Related learning resource: [U3D Game Security Course](https://github.com/IIIImmmyyy/U3DGameCourse)
 
 Use UREngine for software you own or are authorized to analyze. Unity is a trademark of Unity Technologies; UREngine is not affiliated with or endorsed by Unity Technologies.
