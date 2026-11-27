@@ -28,7 +28,8 @@ UREngine 分析 Unity IL2CPP 应用中的原生代码与元数据，恢复便于
 | 项目 | 当前状态 |
 | --- | --- |
 | Studio 桌面客户端 | Windows x64，中英文界面 |
-| 应用输入 | Unity 2021、2022 和 Unity 6（6000.x）系列，以 LTS 版本为基线，并兼容部分相近版本；Android IL2CPP、ARM64-v8a；Studio 支持选择 APK、XAPK、APKS |
+| 引擎支持 | Unity 2021、2022 和 Unity 6（6000.x）系列，以 LTS 版本为基线，并兼容部分相近版本；Android IL2CPP、ARM64-v8a |
+| 当前 Studio 输入 | 已发布客户端支持 Unity 2022.x 的 APK、XAPK、APKS 软件包；引擎支持的其他版本入口将在客户端更新后开放 |
 | 代码还原 | 可读的 C# 工程，泛型方法实现与调用、unsafe 代码、托管与原生混合调用、协程和 async/await 状态机 |
 | 代码与资源浏览 | 在 VS Code 中打开恢复的工程，通过附带的资源浏览器查看资源 |
 | 泛型方法实现 | 支持从泛型实例与共享实现恢复方法体，保留泛型参数、约束及调用关系 |

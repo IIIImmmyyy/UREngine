@@ -28,7 +28,8 @@ Download the Studio ZIP under **Assets** on the release page. GitHub's automatic
 | Item | Current availability |
 | --- | --- |
 | Studio desktop client | Windows x64; Chinese and English UI |
-| Application input | Unity 2021, 2022, and Unity 6 (6000.x), using LTS releases as the compatibility baseline with compatibility for some nearby releases; Android IL2CPP, ARM64-v8a; APK, XAPK and APKS input in Studio |
+| Engine support | Unity 2021, 2022, and Unity 6 (6000.x), using LTS releases as the compatibility baseline with compatibility for some nearby releases; Android IL2CPP, ARM64-v8a |
+| Current Studio input | The published client accepts Unity 2022.x APK, XAPK and APKS packages; entry points for other engine-supported versions will open with a client update |
 | Code recovery | Readable C# projects, generic method implementations and calls, unsafe code, managed/native interop, coroutines and async/await state machines |
 | Code and assets | Open recovered projects in VS Code; browse assets through the bundled asset browser |
 | Generic method implementations | Recovers method bodies from generic instances and shared implementations, preserving type parameters, constraints, and call relationships |
